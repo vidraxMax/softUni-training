@@ -1,2 +1,3 @@
 Should this be a conflict or not?
 Let's make a change
+My changes are better than yours
