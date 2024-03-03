@@ -1,1 +1,2 @@
 Should this be a conflict or not?
+Let's make a change
